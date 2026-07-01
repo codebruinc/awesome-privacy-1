@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-01T08:14:27Z",
+  "generatedAt": "2026-07-01T22:40:44Z",
   "processedShas": [
     "02125ec429ec1ce9c5acdec1604703cb058a7887",
     "02231fb0a59ee43f93c6d0143640284cb7587d71",
@@ -297,7 +297,9 @@
     646,
     647,
     648,
-    649
+    649,
+    651,
+    653
   ],
   "entries": [
     {
@@ -5998,6 +6000,26 @@
     }
   ],
   "rejections": [
+    {
+      "date": "2026-07-01",
+      "title": "Add What Is My Tools to Network Analysis",
+      "pr": {
+        "number": 653,
+        "url": "https://github.com/lissy93/awesome-privacy/pull/653",
+        "author": "CodeWithEhtisham",
+        "authorAvatar": "https://avatars.githubusercontent.com/u/55108404?v=4"
+      }
+    },
+    {
+      "date": "2026-07-01",
+      "title": "Adds 0xEsim to Virtual Phone Numbers",
+      "pr": {
+        "number": 651,
+        "url": "https://github.com/lissy93/awesome-privacy/pull/651",
+        "author": "doumr32-bit",
+        "authorAvatar": "https://avatars.githubusercontent.com/u/258062323?v=4"
+      }
+    },
     {
       "date": "2026-06-30",
       "title": "Add AI Notebook (offline, local NotebookLM alternative)",
